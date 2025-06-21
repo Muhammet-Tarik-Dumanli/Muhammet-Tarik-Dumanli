@@ -4,6 +4,6 @@
 
 👾 I'm a Software Developer working with .NET, C#, and Front-End tech like React, JavaScript, and TailwindCSS.
 
-📝 I build projects like responsive web apps and e-commerce clones. Check them out on my GitHub!
+📝 I build projects like responsive web apps and e-commerce clones. Check them out on my [GitHub](https://github.com/Muhammet-Tarik-Dumanli)!
 
 🤖 Currently diving into modern front-end development through Patika+ Bootcamp.
